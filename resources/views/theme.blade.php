@@ -92,12 +92,11 @@
               </span>
               <span id="typed"></span>
             </h1>
-            <h4 class="typed-heading mt-4">A Best Digital Product Design</h4>
+            <h4 class="typed-heading mt-4">Full-stack software developper </h4>
             <p class="text-white para-desc mx-auto mb-0 mt-3" style="--bs-text-opacity: .8;">
-              This is just a simple text made for this unique and awesome template, you can replace it with any text.
-            </p>
+              Young graduate passionate about developing and creating websites with full energy.           </p>
 
-            <a href="javascript:void(0)" class="btn btn-primary rounded-pill mt-5 text-capitalize">
+            <a href="https://github.com/Raedelkefi" class="btn btn-primary rounded-pill mt-5 text-capitalize">
               view my works
             </a>
 
@@ -1182,7 +1181,7 @@
                     <h6>Social</h6>
                   </div>
                   <ul class="social-text">
-                    <li class="mb-2"><a href="#">Facebook</a></li>
+                    <li class="mb-2"><a href="https://www.facebook.com/Raed.elkefi2001">Facebook</a></li>
                     <li class="mb-2"><a href="#">Twitter</a></li>
                     <li class="mb-2"><a href="#">LinkedIn</a></li>
                     <li class="mb-2"><a href="#">Instagram</a></li>
@@ -1222,7 +1221,7 @@
           <div class="row">
             <div class="col-lg-6">
               <div class="logo">
-                <a href="#"><img src="{{asset("assets/images/logo-light.png")}}" class="img-fluid"></a>
+                <a href="#"><img src="{{asset("assets/images/logo.png")}}" class="img-fluid"></a>
               </div>
             </div><!--end col-->
 
@@ -1231,8 +1230,8 @@
                 <div class="ms-auto">
                   <p class="mb-0">©
                     <script>document.write(new Date().getFullYear())</script> Raed. Design with <i
-                      class="mdi mdi-heart text-danger"></i> by <a href="https://zoyothemes.com/" target="_blank"
-                      class="text-reset">Zoyothemes</a>.
+                      class="mdi mdi-heart text-danger"></i> by <a href="https://Raed.com" target="_blank"
+                      class="text-reset">Raed</a>.
                   </p>
                 </div>
               </div>
